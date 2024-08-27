@@ -94,14 +94,33 @@
             <mxPoint x="430" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-45" target="5wintzvDErzxGzjBbFwN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-45" target="5wintzvDErzxGzjBbFwN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-45" value="After Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="371" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-46" value="Upload Company Registration Certificate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-47" value="Upload Owner ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-48" target="5wintzvDErzxGzjBbFwN-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-48" value="Upload Owner Passport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442" y="520" width="120" height="60" as="geometry" />
