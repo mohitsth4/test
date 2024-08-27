@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="2868" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="552" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,11 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-64" value="Add Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-66" value="Price, Discount Price, Title, Description, Tax Details, Meta Title, Meta Description, Currency Selected By Default according to the Account, Stock Info, Barcode Info, Additional Info Like Warranty, Product Images, Shipping Details Like (W, H, L)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="1130" width="520" height="60" as="geometry" />
         </mxCell>
@@ -181,6 +186,48 @@
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-72" value="Edit Profile Add the Bank Account and Verify the Bank account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="910" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="1340.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="406" y="1320" />
+              <mxPoint x="310" y="1320" />
+              <mxPoint x="190" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1340.0000000000002" as="targetPoint" />
+            <mxPoint x="476.0000000000002" y="1299.9999999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="476" y="1320" />
+              <mxPoint x="651" y="1320" />
+              <mxPoint x="651" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-76" value="Vendor Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-80" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="1340" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-83" value="Products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1340" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-84" value="Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-85" value="Refunds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-86" value="Support" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="608" y="1340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-87" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="1340" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
