@@ -9,17 +9,17 @@
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="200" as="targetPoint" />
+            <mxPoint x="66" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-1" value="Vendor Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-11" target="5wintzvDErzxGzjBbFwN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-11" value="Name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="16" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-12" target="5wintzvDErzxGzjBbFwN-13">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-12" value="Email&lt;br&gt;With Verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="136" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-13" target="5wintzvDErzxGzjBbFwN-14">
           <mxGeometry relative="1" as="geometry" />
@@ -37,36 +37,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-13" value="Phone&lt;br&gt;With Verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="256" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="521" y="220" as="targetPoint" />
+            <mxPoint x="497" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14" target="5wintzvDErzxGzjBbFwN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-14" value="Select Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="376" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-15" target="5wintzvDErzxGzjBbFwN-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-15" target="5wintzvDErzxGzjBbFwN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-15" value="Select Currency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="496" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-16" target="5wintzvDErzxGzjBbFwN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-16" value="Upload Profile Image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="616" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-17" value="Add Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="736" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-33" value="Showing Verification Popup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="136" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-34" value="Showing Verification Popup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="256" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-38" value="Showing Popup With Dropdown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-40" value="Showing Popup With Dropdown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
