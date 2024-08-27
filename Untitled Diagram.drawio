@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,19 +160,27 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-61" value="After Approval The account vendor need to be add the Products Using CSV or can add one by one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="760" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-64">
+        <mxCell id="5wintzvDErzxGzjBbFwN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431" y="1010" as="targetPoint" />
+            <mxPoint x="436" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-64" value="Add Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="376" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-66" value="Price, Discount Price, Title, Description, Tax Details, Meta Title, Meta Description, Currency Selected By Default according to the Account, Stock Info, Barcode Info, Additional Info Like Warranty, Product Images, Shipping Details Like (W, H, L)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="171" y="1010" width="520" height="60" as="geometry" />
+          <mxGeometry x="176" y="1130" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14" target="5wintzvDErzxGzjBbFwN-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-72" value="Edit Profile Add the Bank Account and Verify the Bank account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="910" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
