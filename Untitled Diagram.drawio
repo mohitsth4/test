@@ -6,35 +6,31 @@
         <mxCell id="1" parent="0" />
         <mxCell id="5wintzvDErzxGzjBbFwN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="160" as="targetPoint" />
+            <mxPoint x="140" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="100" />
-              <mxPoint x="370" y="130" />
-              <mxPoint x="140" y="130" />
+              <mxPoint x="400" y="190" />
+              <mxPoint x="140" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="160" as="targetPoint" />
+            <mxPoint x="710" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="160" />
+              <mxPoint x="400" y="190" />
+              <mxPoint x="710" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="5wintzvDErzxGzjBbFwN-1" value="Adding Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-1" value="Basket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="5wintzvDErzxGzjBbFwN-6" value="&lt;h3&gt;Admin&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-6" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-7" value="Customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-8" value="Vendor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="5wintzvDErzxGzjBbFwN-8" value="&lt;h3&gt;Vendor&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
