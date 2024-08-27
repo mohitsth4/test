@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-64" value="Add Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5wintzvDErzxGzjBbFwN-66" value="Price, Discount Price, Title, Description, Tax Details, Meta Title, Meta Description, Currency Selected By Default according to the Account, Stock Info, Barcode Info, Additional Info Like Warranty, Product Images, Shipping Details Like (W, H, L)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="1010" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14" target="5wintzvDErzxGzjBbFwN-15">
