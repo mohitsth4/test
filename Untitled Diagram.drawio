@@ -128,6 +128,22 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-49" value="Upload Owner Photo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-58" value="Account will be on Under Process for Validate Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-46" target="5wintzvDErzxGzjBbFwN-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="202" y="610" />
+              <mxPoint x="666" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
