@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,34 +38,37 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-12" value="Email&lt;br&gt;With Verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-13" target="5wintzvDErzxGzjBbFwN-14">
+        <mxCell id="5wintzvDErzxGzjBbFwN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-13" target="5wintzvDErzxGzjBbFwN-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-13" target="5wintzvDErzxGzjBbFwN-34">
+        <mxCell id="5wintzvDErzxGzjBbFwN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-13" target="5wintzvDErzxGzjBbFwN-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-13" value="Phone&lt;br&gt;With Verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="256" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14">
+        <mxCell id="5wintzvDErzxGzjBbFwN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5wintzvDErzxGzjBbFwN-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="497" y="220" as="targetPoint" />
+            <mxPoint x="426" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14" target="5wintzvDErzxGzjBbFwN-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-14" value="Select Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="200" width="100" height="40" as="geometry" />
+        <mxCell id="5wintzvDErzxGzjBbFwN-14" value="Select Country Products will be showing only on that particular Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-15" target="5wintzvDErzxGzjBbFwN-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-15" target="5wintzvDErzxGzjBbFwN-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5wintzvDErzxGzjBbFwN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5wintzvDErzxGzjBbFwN-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5wintzvDErzxGzjBbFwN-15" value="Select Currency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496" y="200" width="100" height="40" as="geometry" />
+        <mxCell id="5wintzvDErzxGzjBbFwN-15" value="Select Currency &amp;amp; Second Language&lt;div&gt;First Language By default is English&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="170" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-16" target="5wintzvDErzxGzjBbFwN-17">
           <mxGeometry relative="1" as="geometry" />
@@ -147,8 +150,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wintzvDErzxGzjBbFwN-61" value="After Approval The account vendor need to be add the Products Using CSV or can add one by one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="760" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-64" value="Add Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1010" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.447;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5wintzvDErzxGzjBbFwN-14" target="5wintzvDErzxGzjBbFwN-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
