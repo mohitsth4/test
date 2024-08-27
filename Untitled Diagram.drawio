@@ -97,6 +97,18 @@
         <mxCell id="5wintzvDErzxGzjBbFwN-45" value="After Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-46" value="Upload Company Registration Certificate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-47" value="Upload Owner ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-48" value="Upload Owner Passport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wintzvDErzxGzjBbFwN-49" value="Upload Owner Photo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="588" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
