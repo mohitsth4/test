@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="4037" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -456,6 +456,103 @@
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-78" value="&lt;h2&gt;&lt;u&gt;User Portal&lt;/u&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="2440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-79" target="X09Q4AG_XSMURBuyCHd_-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="2740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-79" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-84" target="X09Q4AG_XSMURBuyCHd_-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-84" value="See All Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-85" value="Give Review And get Reward Points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-86" target="X09Q4AG_XSMURBuyCHd_-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-86" value="See all Categories &amp;amp; Sub Categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-87" target="X09Q4AG_XSMURBuyCHd_-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-87" value="See All Brands" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-88" target="X09Q4AG_XSMURBuyCHd_-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-88" value="View Product Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-89" target="X09Q4AG_XSMURBuyCHd_-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-89" value="Order Place" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-90" target="X09Q4AG_XSMURBuyCHd_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-90" value="Make Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-98" target="X09Q4AG_XSMURBuyCHd_-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-98" value="Redeem Reward Points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-99" target="X09Q4AG_XSMURBuyCHd_-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-99" value="Use Reward Points on Next Purchase only User Can&#39;t use as a cash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-100" target="X09Q4AG_XSMURBuyCHd_-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-100" value="See Previous History of Orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-101" target="X09Q4AG_XSMURBuyCHd_-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-101" value="See Previous History of Reward Points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-102" target="X09Q4AG_XSMURBuyCHd_-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-102" value="See Previous History of All Transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-103" value="See Order Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-104" target="X09Q4AG_XSMURBuyCHd_-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-104" value="User Review Pallete (remember if user give review on first time then he can&#39;t edit his review)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2890" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-105" value="User Review Pallete (remember if user give review on first time then he can&#39;t edit his review)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="3030" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-103" target="X09Q4AG_XSMURBuyCHd_-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
