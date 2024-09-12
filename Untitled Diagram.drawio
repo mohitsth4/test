@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Page-1" id="YAEVpcPzzc_q-mBe14_t">
-    <mxGraphModel dx="3056" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,18 @@
             <mxPoint x="1172.1052631578948" y="1870" as="sourcePoint" />
             <mxPoint x="-303" y="1870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-45" value="&lt;ol&gt;&lt;li&gt;Vendor List&lt;/li&gt;&lt;li&gt;Vendor Approved/Disapproved&lt;/li&gt;&lt;li&gt;Vendor Products&lt;/li&gt;&lt;li&gt;Vendor Ratings&lt;/li&gt;&lt;li&gt;Vendor Orders&lt;/li&gt;&lt;li&gt;Vendor Ads&lt;/li&gt;&lt;li&gt;Users Details Who purchase the products from same vendor&lt;/li&gt;&lt;li&gt;Vendor Details (Complete Information of the store or Documents Upload While Registration)&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="2040" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-46" value="&lt;ol&gt;&lt;li&gt;Customer List&lt;/li&gt;&lt;li&gt;Customer Approved/Disapproved&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customers Ratings&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Customer Orders&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer Details (Complete Information Like addresses, Phone numbers, Email etc...)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="2040" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-8" target="X09Q4AG_XSMURBuyCHd_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.34;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-9" target="X09Q4AG_XSMURBuyCHd_-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
