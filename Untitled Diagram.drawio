@@ -295,12 +295,25 @@
             <mxPoint x="237" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-56" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2040.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-11" value="Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="177" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-28" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-58" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="2170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="2070" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-12" value="Advertisements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -311,12 +324,22 @@
             <mxPoint x="503.00000000000045" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X09Q4AG_XSMURBuyCHd_-13" value="Advertisements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="503" y="2050.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-13" value="Ads Pricing &amp;amp; Commission Set" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-30" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="641" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-62" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="2190.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-14" value="Transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -325,6 +348,11 @@
         <mxCell id="X09Q4AG_XSMURBuyCHd_-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="776" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="776" y="2070.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-15" value="Navigation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -377,6 +405,21 @@
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-55" value="&lt;ol&gt;&lt;li&gt;Add New Product&lt;/li&gt;&lt;li&gt;Edit Products&lt;/li&gt;&lt;li&gt;Products in Review/Pending/Approve&lt;/li&gt;&lt;li&gt;Product Ratings&lt;/li&gt;&lt;li&gt;Product Status&lt;/li&gt;&lt;li&gt;Product Instock/Outstock&lt;/li&gt;&lt;li&gt;Product Added By&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-10" y="2250" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-57" value="&lt;ol&gt;&lt;li&gt;Add New User Role&lt;/li&gt;&lt;li&gt;Assign Role to User&lt;/li&gt;&lt;li&gt;Settings What user can see&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2040" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-59" value="&lt;ol&gt;&lt;li&gt;Add Advertisement&lt;/li&gt;&lt;li&gt;Edit Advertisement&lt;/li&gt;&lt;li&gt;Delete Ads&lt;/li&gt;&lt;li&gt;Get New Ads From Vendors&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="249" y="2170" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-61" value="&lt;ol&gt;&lt;li&gt;Create Ads Plan to Purchase from the vendor only&lt;/li&gt;&lt;li&gt;Per Product Commission Set&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="401" y="2050" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-63" value="&lt;ol&gt;&lt;li&gt;Vendor Ads Transactions&lt;/li&gt;&lt;li&gt;Orders Transactions&lt;/li&gt;&lt;li&gt;Points Transactions&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="521" y="2190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-65" value="&lt;ol&gt;&lt;li&gt;Set Navigation according to the Requirements for 3-4 Places&lt;/li&gt;&lt;li&gt;Set Categories from here&lt;/li&gt;&lt;li&gt;Set Brands From Here&lt;/li&gt;&lt;li&gt;Adding Categories&lt;/li&gt;&lt;li&gt;Adding Sub Categories&lt;/li&gt;&lt;li&gt;Adding Brands&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="708" y="2070" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
