@@ -281,7 +281,7 @@
             <mxPoint x="103" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X09Q4AG_XSMURBuyCHd_-51" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-51" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.733;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="X09Q4AG_XSMURBuyCHd_-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="152" y="2280.0000000000005" as="targetPoint" />
             <mxPoint x="152.09090909090924" y="1990" as="sourcePoint" />
@@ -363,8 +363,8 @@
         <mxCell id="X09Q4AG_XSMURBuyCHd_-45" value="&lt;ol&gt;&lt;li&gt;Vendor List&lt;/li&gt;&lt;li&gt;Vendor Approved/Disapproved&lt;/li&gt;&lt;li&gt;Vendor Products&lt;/li&gt;&lt;li&gt;Vendor Ratings&lt;/li&gt;&lt;li&gt;Vendor Orders&lt;/li&gt;&lt;li&gt;Vendor Ads&lt;/li&gt;&lt;li&gt;Users Details Who purchase the products from same vendor&lt;/li&gt;&lt;li&gt;Vendor Details (Complete Information of the store or Documents Upload While Registration)&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-103" y="2040" width="220" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="X09Q4AG_XSMURBuyCHd_-46" value="&lt;ol&gt;&lt;li&gt;Customer List&lt;/li&gt;&lt;li&gt;Customer Approved/Disapproved&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customers Ratings&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Customer Orders&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer Details (Complete Information Like addresses, Phone numbers, Email etc...)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="2040" width="240" height="130" as="geometry" />
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-46" value="&lt;ol&gt;&lt;li&gt;All Users&lt;/li&gt;&lt;li&gt;All Approved/Disapproved Users&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customers Ratings&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="2040" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-8" target="X09Q4AG_XSMURBuyCHd_-46">
           <mxGeometry relative="1" as="geometry" />
@@ -374,6 +374,9 @@
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-53" value="&lt;ol&gt;&lt;li&gt;All Orders History&lt;/li&gt;&lt;li&gt;All Transactions History&lt;/li&gt;&lt;li&gt;All Products History&lt;/li&gt;&lt;li&gt;All Users History&lt;/li&gt;&lt;li&gt;All Vendors&amp;nbsp;&lt;/li&gt;&lt;li&gt;Recent Tickets &amp;amp; Open Tickets&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-630" y="2040" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-55" value="&lt;ol&gt;&lt;li&gt;Add New Product&lt;/li&gt;&lt;li&gt;Edit Products&lt;/li&gt;&lt;li&gt;Products in Review/Pending/Approve&lt;/li&gt;&lt;li&gt;Product Ratings&lt;/li&gt;&lt;li&gt;Product Status&lt;/li&gt;&lt;li&gt;Product Instock/Outstock&lt;/li&gt;&lt;li&gt;Product Added By&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2250" width="220" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
