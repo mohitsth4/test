@@ -249,6 +249,14 @@
             <mxPoint x="-290" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-52" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="2090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-660" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-5" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-359" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
@@ -271,6 +279,12 @@
         <mxCell id="X09Q4AG_XSMURBuyCHd_-26" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="103" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-51" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152" y="2280.0000000000005" as="targetPoint" />
+            <mxPoint x="152.09090909090924" y="1990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-10" value="Products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -357,6 +371,9 @@
         </mxCell>
         <mxCell id="X09Q4AG_XSMURBuyCHd_-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.34;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X09Q4AG_XSMURBuyCHd_-9" target="X09Q4AG_XSMURBuyCHd_-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X09Q4AG_XSMURBuyCHd_-53" value="&lt;ol&gt;&lt;li&gt;All Orders History&lt;/li&gt;&lt;li&gt;All Transactions History&lt;/li&gt;&lt;li&gt;All Products History&lt;/li&gt;&lt;li&gt;All Users History&lt;/li&gt;&lt;li&gt;All Vendors&amp;nbsp;&lt;/li&gt;&lt;li&gt;Recent Tickets &amp;amp; Open Tickets&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="2040" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
